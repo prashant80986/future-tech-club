@@ -1,0 +1,6 @@
+{
+  "name": "Mount Learner Academy - Bulk Certificate Generator",
+  "description": "Enterprise bulk certificate design, generation, verification, and email distribution portal for Mount Learner Academy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
